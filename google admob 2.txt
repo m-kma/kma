@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "183279527526",
+    "firebase_url": "https://fu9g0ijagodvnhu.firebaseio.com",
+    "project_id": "fu9g0ijagodvnhu",
+    "storage_bucket": "fu9g0ijagodvnhu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183279527526:android:d1774425b6c9b6f5",
+        "android_client_info": {
+          "package_name": "com.google.android.gms.plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183279527526-lj2ko8c6o0kt7iml3frqvsdn2e298kka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUc6ZLaMnNppDbFxHHpWtBNrpnKMeuiBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-3852873629356582~5883910635"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183279527526:android:68c553142889fdfc",
+        "android_client_info": {
+          "package_name": "free.vpn.unblock.proxy.turbovpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183279527526-lj2ko8c6o0kt7iml3frqvsdn2e298kka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUc6ZLaMnNppDbFxHHpWtBNrpnKMeuiBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-3852873629356582~2907428626"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183279527526:android:5b651886663a1560",
+        "android_client_info": {
+          "package_name": "kmaonchy.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183279527526-lj2ko8c6o0kt7iml3frqvsdn2e298kka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUc6ZLaMnNppDbFxHHpWtBNrpnKMeuiBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-3852873629356582~2959731370"
+    }
+  ],
+  "configuration_version": "1"
+}
