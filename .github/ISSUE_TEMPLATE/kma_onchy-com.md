@@ -1,5 +1,5 @@
 ---
-name: kmaonchy.com
+name: kma_onchy.com
 about: http://kmaonchy.website2.me
 title: kmaonchy.com
 labels: blogger, home, info dan layanan, kmaonchy.com, konfirmasi pembayaran, kunjungi

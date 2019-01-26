@@ -1,9 +1,10 @@
 ---
-name: kmaonchy.com
+name: kma_onchy
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: kmaonchy.com
+labels: home, info dan layanan, kmaonchy.com, konfirmasi pembayaran, kunjungi toko
+  ofline kami, live streaming, menu, tanya kami
+assignees: kmanew
 
 ---
 
